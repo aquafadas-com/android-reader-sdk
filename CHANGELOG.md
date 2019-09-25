@@ -1,7 +1,15 @@
 ## <a name="Changelog"></a> Change log
 
+### 1.2.10 - 2019-09-25
+- [BUGFIX] Home button is correctlly display if found in gui.xml
+- [BUGFIX] Title display in the center of the toolbar
+- [BUGFIX] Tap in Slice view doen't make menu appear
+
+### 1.2.9 - 2019-07-29
+- [FEATURE] Update fresco version
+
 ### 1.2.7 - 2019-07-24
-[BUGFIX] Change Proguard rules for Foxit
+- [BUGFIX] Change Proguard rules for Foxit
 
 ### 1.2.6 - 2019-07-23
 - [BUGFIX] Show current page number in action bar when option is activated in Gui.xml
