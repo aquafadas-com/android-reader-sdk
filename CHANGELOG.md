@@ -1,5 +1,8 @@
 ## <a name="Changelog"></a> Change log
 
+### 1.3.0 - 2019-11-26
+- [BUGFIX] Optimize transition between al pages
+
 ### 1.2.10 - 2019-09-25
 - [BUGFIX] Home button is correctlly display if found in gui.xml
 - [BUGFIX] Title display in the center of the toolbar
