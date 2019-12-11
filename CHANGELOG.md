@@ -1,7 +1,10 @@
 ## <a name="Changelog"></a> Change log
 
+### 1.3.1 - 2019-12-11
+- [FEATURE] Enable SSL TLS 1.2 by default for Android 4.4 and lower
+
 ### 1.3.0 - 2019-11-26
-- [BUGFIX] Optimize transition between al pages
+- [BUGFIX] Optimize transition between pages
 
 ### 1.2.10 - 2019-09-25
 - [BUGFIX] Home button is correctlly display if found in gui.xml
