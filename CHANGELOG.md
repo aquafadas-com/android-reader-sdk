@@ -1,5 +1,8 @@
 ## <a name="Changelog"></a> Change log
 
+### 1.3.2 - 2019-12-17
+ - [BUGFIX] Fix download bug (update common framework)
+
 ### 1.3.1 - 2019-12-11
 - [FEATURE] Enable SSL TLS 1.2 by default for Android 4.4 and lower
 
