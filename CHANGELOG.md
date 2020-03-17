@@ -1,5 +1,11 @@
 ## <a name="Changelog"></a> Change log
 
+### 1.4.0 - 2020-03-16
+- Support AndroidX
+
+### 1.3.3 - 2020-02-27
+- Update common version
+
 ### 1.3.2 - 2019-12-17
  - [BUGFIX] Fix download bug (update common framework)
 
