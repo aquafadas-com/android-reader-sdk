@@ -1,5 +1,10 @@
 ## <a name="Changelog"></a> Change log
 
+### 1.4.1 - 2020-04-15
+- [FEATURE] Add fullscreen lock option
+- Update Firbase crashlytics
+- [BUGFIX] Fix issues with buttons on reader
+
 ### 1.4.0 - 2020-03-16
 - Support AndroidX
 
